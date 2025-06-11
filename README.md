@@ -2,12 +2,6 @@
 
 A high-performance CUDA-based implementation of the Black-Scholes model for pricing European call and put options. This project demonstrates GPU acceleration over traditional CPU methods and includes benchmarking and visualization of results.
 
-## Features
-- CUDA kernel for parallel option pricing
-- CPU-based baseline implementation
-- Performance comparison with execution time
-- Graphical visualization using Matplotlib
-
 ### Build
 ```bash
 make
